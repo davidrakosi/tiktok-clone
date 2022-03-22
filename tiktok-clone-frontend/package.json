@@ -12,7 +12,7 @@
     "firebase": "^7.17.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1",
+    "react-scripts": "5.0.0",
     "react-ticker": "^1.2.2"
   },
   "scripts": {
